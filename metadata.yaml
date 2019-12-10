@@ -1,0 +1,26 @@
+_repo: Oraita_60877
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haahti, Hilja
+    aliases:
+    - Krohn, Hilja
+    - Hahnsson, Hilja
+    birthdate: 1874
+    deathdate: 1966
+    gutenberg_agent_id: '50535'
+    url: http://www.gutenberg.org/2009/agents/50535
+    wikipedia: https://fi.wikipedia.org/wiki/Hilja_Haahti
+description: ''
+gutenberg_issued: '2019-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60877'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Oraita
+url: http://www.gutenberg.org/ebooks/60877
